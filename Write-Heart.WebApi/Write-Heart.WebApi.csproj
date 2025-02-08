@@ -15,4 +15,9 @@
     <Folder Include="Project-info\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Write-Heart.Application\Write-Heart.Application.csproj" />
+    <ProjectReference Include="..\Write-heart.Persistence\Write-heart.Persistence.csproj" />
+  </ItemGroup>
+
 </Project>

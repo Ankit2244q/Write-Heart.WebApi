@@ -1,0 +1,10 @@
+/.vs
+/Write-Heart.Domain/obj
+/Write-Heart.Domain/bin
+/Write-Heart.Application/bin
+/Write-Heart.Application/obj
+/Write-Heart.Application/obj
+/Write-heart.Persistence/bin
+/Write-heart.Persistence/obj
+/Write-Heart.WebApi/bin
+*.cache

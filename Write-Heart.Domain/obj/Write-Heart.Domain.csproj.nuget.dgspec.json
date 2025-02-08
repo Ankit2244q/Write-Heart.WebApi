@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Presentation\\Write-Heart.WebApi\\Write-Heart.Domain\\Write-Heart.Domain.csproj": {}
+    "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.Domain\\Write-Heart.Domain.csproj": {}
   },
   "projects": {
-    "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Presentation\\Write-Heart.WebApi\\Write-Heart.Domain\\Write-Heart.Domain.csproj": {
+    "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.Domain\\Write-Heart.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Presentation\\Write-Heart.WebApi\\Write-Heart.Domain\\Write-Heart.Domain.csproj",
+        "projectUniqueName": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.Domain\\Write-Heart.Domain.csproj",
         "projectName": "Write-Heart.Domain",
-        "projectPath": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Presentation\\Write-Heart.WebApi\\Write-Heart.Domain\\Write-Heart.Domain.csproj",
+        "projectPath": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.Domain\\Write-Heart.Domain.csproj",
         "packagesPath": "C:\\Users\\Ankit\\.nuget\\packages\\",
-        "outputPath": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Presentation\\Write-Heart.WebApi\\Write-Heart.Domain\\obj\\",
+        "outputPath": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ankit\\AppData\\Roaming\\NuGet\\NuGet.Config",
