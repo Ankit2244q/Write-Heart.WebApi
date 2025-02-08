@@ -1,0 +1,6 @@
+@Write_Heart.WebApi_HostAddress = http://localhost:5298
+
+GET {{Write_Heart.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
