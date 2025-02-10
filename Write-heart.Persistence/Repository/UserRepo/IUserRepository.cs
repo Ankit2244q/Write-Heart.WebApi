@@ -1,8 +1,10 @@
-﻿namespace Write_heart.Persistence.Repository.UserRepo
+﻿using Write_Heart.Domain.Entities;
+
+namespace Write_heart.Persistence.Repository.UserRepo
 {
     public interface IUserRepository
     {
-      Task<> GetUserByEmailAsync(string email);
+      Task<User> GetUserByEmailAsync(string email);
         
     }
 }

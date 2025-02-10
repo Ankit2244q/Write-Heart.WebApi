@@ -8,3 +8,4 @@
 /Write-heart.Persistence/obj
 /Write-Heart.WebApi/bin
 *.cache
+/Write-Heart.Application/obj

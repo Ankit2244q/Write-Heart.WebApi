@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Presentation\\Write-Heart.WebApi\\Write-Heart.Application\\Write-Heart.Application.csproj",
+      "projectUniqueName": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.Application\\Write-Heart.Application.csproj",
       "projectName": "Write-Heart.Application",
-      "projectPath": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Presentation\\Write-Heart.WebApi\\Write-Heart.Application\\Write-Heart.Application.csproj",
+      "projectPath": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.Application\\Write-Heart.Application.csproj",
       "packagesPath": "C:\\Users\\Ankit\\.nuget\\packages\\",
-      "outputPath": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Presentation\\Write-Heart.WebApi\\Write-Heart.Application\\obj\\",
+      "outputPath": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ankit\\AppData\\Roaming\\NuGet\\NuGet.Config",

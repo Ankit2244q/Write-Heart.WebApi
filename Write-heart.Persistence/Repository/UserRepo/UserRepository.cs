@@ -1,4 +1,8 @@
-﻿namespace Write_heart.Persistence.Repository.UserRepo
+﻿using Microsoft.EntityFrameworkCore;
+using Write_heart.Persistence.Db;
+using Write_Heart.Domain.Entities;
+
+namespace Write_heart.Persistence.Repository.UserRepo
 {
     public class UserRepository : Repository<User>, IUserRepository
     {

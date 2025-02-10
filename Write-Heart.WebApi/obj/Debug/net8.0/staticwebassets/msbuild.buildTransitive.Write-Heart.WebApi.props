@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Write-Heart.WebApi.props" />
+</Project>

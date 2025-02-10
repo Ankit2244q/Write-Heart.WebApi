@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Write-Heart.WebApi.props" />
+</Project>
