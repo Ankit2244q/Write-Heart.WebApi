@@ -1076,6 +1076,9 @@
       "Write-Heart.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Write-Heart.Domain": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Write-Heart.Application.dll": {}
         },

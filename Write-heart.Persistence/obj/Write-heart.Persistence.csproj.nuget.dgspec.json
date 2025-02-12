@@ -28,7 +28,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.Domain\\Write-Heart.Domain.csproj": {
+                "projectPath": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.Domain\\Write-Heart.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

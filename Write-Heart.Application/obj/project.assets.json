@@ -1,11 +1,33 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Write-Heart.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Write-Heart.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Write-Heart.Domain.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Write-Heart.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Write-Heart.Domain/Write-Heart.Domain.csproj",
+      "msbuildProject": "../Write-Heart.Domain/Write-Heart.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Write-Heart.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Ankit\\.nuget\\packages\\": {}
@@ -34,7 +56,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.Domain\\Write-Heart.Domain.csproj": {
+              "projectPath": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.Domain\\Write-Heart.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
