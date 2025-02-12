@@ -1120,6 +1120,22 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "Write-Heart.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Write-heart.Persistence": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Write-Heart.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Write-Heart.Services.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -3190,12 +3206,18 @@
       "type": "project",
       "path": "../Write-heart.Persistence/Write-heart.Persistence.csproj",
       "msbuildProject": "../Write-heart.Persistence/Write-heart.Persistence.csproj"
+    },
+    "Write-Heart.Services/1.0.0": {
+      "type": "project",
+      "path": "../Write-Heart.Services/Write-Heart.Services.csproj",
+      "msbuildProject": "../Write-Heart.Services/Write-Heart.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Swashbuckle.AspNetCore >= 6.6.2",
       "Write-Heart.Application >= 1.0.0",
+      "Write-Heart.Services >= 1.0.0",
       "Write-heart.Persistence >= 1.0.0"
     ]
   },
@@ -3232,6 +3254,9 @@
             },
             "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-heart.Persistence\\Write-heart.Persistence.csproj": {
               "projectPath": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-heart.Persistence\\Write-heart.Persistence.csproj"
+            },
+            "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.Services\\Write-Heart.Services.csproj": {
+              "projectPath": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.Services\\Write-Heart.Services.csproj"
             }
           }
         }

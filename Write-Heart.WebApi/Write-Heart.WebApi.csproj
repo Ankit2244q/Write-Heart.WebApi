@@ -18,6 +18,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Write-Heart.Application\Write-Heart.Application.csproj" />
     <ProjectReference Include="..\Write-heart.Persistence\Write-heart.Persistence.csproj" />
+    <ProjectReference Include="..\Write-Heart.Services\Write-Heart.Services.csproj" />
   </ItemGroup>
 
 </Project>

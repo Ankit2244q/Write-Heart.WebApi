@@ -9,3 +9,12 @@
 /Write-Heart.WebApi/bin
 *.cache
 /Write-Heart.Application/obj
+/.vs
+
+/Write-Heart.Services/bin/Debug
+Write-Heart.WebApi/obj/Debug/net8.0/Write-Heart.WebApi.AssemblyInfoInputs.cache
+*.cache
+*.pdb
+*.json
+*.v2
+Write-Heart.WebApi/obj/Write-Heart.WebApi.csproj.nuget.dgspec.json

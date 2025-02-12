@@ -1,27 +1,28 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Write_Heart.Application.Business.Service.UserPosts;
+using Write_Heart.Domain.Entities;
+using Write_Heart.Services.Services.UserPostService;
 
 namespace Write_Heart.WebApi.Controllers.NewFolder.UserPost
 {
     [Route("api/[controller]")]
     [ApiController]
 
-    //private readonly IUserContentService _contentService;
-
-    //public UserContentController(IUserContentService contentService)
-    //{
-    //    _contentService = contentService;
-    //}
     public class UserPostController : ControllerBase
     {
-
-        //public Task<UserPost>
-
-        public UserPostController() { } 
-
-        public ActionResult CreateUserPost()
+        private readonly UserPostService _userPostService;
+        public UserPostController(UserPostService userPostService) 
         {
-            return Ok("Created post");
+            _userPostService = userPostService;
+        }
+
+        [HttpGet]
+        public async Task<ActionResult<IEnumerable<UserPosts>>> GetAllUserPosts()
+        {
+            var userPosts = await _userPostService.GetAllAsync();
+            return Ok(userPosts);
+
         }
     }
 }

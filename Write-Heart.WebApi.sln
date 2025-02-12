@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Write-Heart.WebApi", "Write-Heart.WebApi\Write-Heart.WebApi.csproj", "{4FE37225-4AEA-452A-995B-48AC582EE062}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Write-Heart.WebApi", "Write-Heart.WebApi\Write-Heart.WebApi.csproj", "{4FE37225-4AEA-452A-995B-48AC582EE062}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{6AC8E415-F8F9-45F1-BA11-18536E247BCD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{E16C1D2A-C8F9-4247-BA3C-F4DD2DB229F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Write-Heart.Application", "Write-Heart.Application\Write-Heart.Application.csproj", "{78E2A40D-E807-4DB1-875F-4D4D7A77837B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Write-Heart.Application", "Write-Heart.Application\Write-Heart.Application.csproj", "{78E2A40D-E807-4DB1-875F-4D4D7A77837B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Write-Heart.Domain", "Write-Heart.Domain\Write-Heart.Domain.csproj", "{EC1DC674-762F-40D9-BF32-BB73A8E86969}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Write-Heart.Domain", "Write-Heart.Domain\Write-Heart.Domain.csproj", "{EC1DC674-762F-40D9-BF32-BB73A8E86969}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Write-heart.Persistence", "Write-heart.Persistence\Write-heart.Persistence.csproj", "{12AEFDF4-DB9B-4871-807A-3C254A295DDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Write-heart.Persistence", "Write-heart.Persistence\Write-heart.Persistence.csproj", "{12AEFDF4-DB9B-4871-807A-3C254A295DDE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{D0DDB5F7-6AF7-433C-BF60-A79CA5C7AD16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Write-Heart.Services", "Write-Heart.Services\Write-Heart.Services.csproj", "{6FD048B5-CE16-4A4E-9BD5-9973C1E8DAD4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{12AEFDF4-DB9B-4871-807A-3C254A295DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12AEFDF4-DB9B-4871-807A-3C254A295DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12AEFDF4-DB9B-4871-807A-3C254A295DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FD048B5-CE16-4A4E-9BD5-9973C1E8DAD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FD048B5-CE16-4A4E-9BD5-9973C1E8DAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FD048B5-CE16-4A4E-9BD5-9973C1E8DAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FD048B5-CE16-4A4E-9BD5-9973C1E8DAD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,6 +54,7 @@ Global
 		{78E2A40D-E807-4DB1-875F-4D4D7A77837B} = {6AC8E415-F8F9-45F1-BA11-18536E247BCD}
 		{EC1DC674-762F-40D9-BF32-BB73A8E86969} = {6AC8E415-F8F9-45F1-BA11-18536E247BCD}
 		{12AEFDF4-DB9B-4871-807A-3C254A295DDE} = {E16C1D2A-C8F9-4247-BA3C-F4DD2DB229F2}
+		{6FD048B5-CE16-4A4E-9BD5-9973C1E8DAD4} = {E16C1D2A-C8F9-4247-BA3C-F4DD2DB229F2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {31D58048-28A5-4520-9197-E5A842664044}

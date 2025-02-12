@@ -84,3 +84,8 @@ A:\_Business_Site\official\Write-Heart\Write-heart-Api\Source\Write-Heart.WebApi
 A:\_Business_Site\official\Write-Heart\Write-heart-Api\Source\Write-Heart.WebApi\Write-Heart.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 A:\_Business_Site\official\Write-Heart\Write-heart-Api\Source\Write-Heart.WebApi\Write-Heart.WebApi\bin\Debug\net8.0\Write-Heart.Domain.dll
 A:\_Business_Site\official\Write-Heart\Write-heart-Api\Source\Write-Heart.WebApi\Write-Heart.WebApi\bin\Debug\net8.0\Write-Heart.Domain.pdb
+A:\_Business_Site\official\Write-Heart\Write-heart-Api\Source\Write-Heart.WebApi\Write-Heart.WebApi\bin\Debug\net8.0\Write-Heart.Services.deps.json
+A:\_Business_Site\official\Write-Heart\Write-heart-Api\Source\Write-Heart.WebApi\Write-Heart.WebApi\bin\Debug\net8.0\Write-Heart.Services.runtimeconfig.json
+A:\_Business_Site\official\Write-Heart\Write-heart-Api\Source\Write-Heart.WebApi\Write-Heart.WebApi\bin\Debug\net8.0\Write-Heart.Services.exe
+A:\_Business_Site\official\Write-Heart\Write-heart-Api\Source\Write-Heart.WebApi\Write-Heart.WebApi\bin\Debug\net8.0\Write-Heart.Services.dll
+A:\_Business_Site\official\Write-Heart\Write-heart-Api\Source\Write-Heart.WebApi\Write-Heart.WebApi\bin\Debug\net8.0\Write-Heart.Services.pdb

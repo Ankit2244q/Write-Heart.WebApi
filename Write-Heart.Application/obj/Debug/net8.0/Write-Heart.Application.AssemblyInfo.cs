@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Write-Heart.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25d4fb175a24035ee8ea5ffbc0aad585361820e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6eb7f2f7ed8a3b69f7ad4a9810f3cb56fc2c44f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Write-Heart.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Write-Heart.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
