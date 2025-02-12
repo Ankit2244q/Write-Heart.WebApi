@@ -1,5 +1,6 @@
 ﻿using Write_Heart.Application.Interfaces.Generic;
-using Write_Hear
+using Write_Heart.Domain.Entities;
+
 
 namespace Write_Heart.Application.Business.Service.UserPosts
 {
@@ -11,7 +12,7 @@ namespace Write_Heart.Application.Business.Service.UserPosts
             _userPostsService = repository;
         }
 
-        public async Task<UserPosts> CreateContentAsync(UserContent content)
+        public async Task<Domain.Entities.UserPosts> CreateContentAsync(Domain.Entities.UserPosts content)
         {
             // **Business Logic: Validate before saving**
             if (string.IsNullOrWhiteSpace(content.Content))
@@ -24,24 +25,26 @@ namespace Write_Heart.Application.Business.Service.UserPosts
                 throw new ArgumentException("Content exceeds 500 characters.");
             }
 
-            return await _userPostsService.AddAsync(content);
+            return null; 
         }
 
-        public async Task<IEnumerable<UserContent>> GetUserContentsAsync(string userId)
+        public async Task<IEnumerable<Domain.Entities.UserPosts>> GetUserContentsAsync(string userId)
         {
-            return await _userPostsService.GetByUserIdAsync(userId);
+            return null;
         }
 
         public async Task<bool> DeleteContentAsync(int id, string userId)
         {
-            var content = await _userPostsService.GetByIdAsync(id);
-            if (content == null || content.UserId != userId)
-            {
-                throw new UnauthorizedAccessException("You can only delete your own content.");
-            }
+            //var content = '';
+            //if (content == null || content.UserId != userId)
+            //{
+            //    throw new UnauthorizedAccessException("You can only delete your own content.");
+            //}
 
-            return await _userPostsService.DeleteAsync(id);
+            //return await _userPostsService.DeleteAsync(id);
+
+            return true;
         }
     }
-}
+
 }
