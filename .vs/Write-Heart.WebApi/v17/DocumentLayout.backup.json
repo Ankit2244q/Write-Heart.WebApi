@@ -3,28 +3,48 @@
   "WorkspaceRootPath": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12AEFDF4-DB9B-4871-807A-3C254A295DDE}|Write-heart.Persistence\\Write-heart.Persistence.csproj|a:\\_business_site\\official\\write-heart\\write-heart-api\\source\\write-heart.webapi\\write-heart.persistence\\repository\\userrepo\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12AEFDF4-DB9B-4871-807A-3C254A295DDE}|Write-heart.Persistence\\Write-heart.Persistence.csproj|solutionrelative:write-heart.persistence\\repository\\userrepo\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78E2A40D-E807-4DB1-875F-4D4D7A77837B}|Write-Heart.Application\\Write-Heart.Application.csproj|a:\\_business_site\\official\\write-heart\\write-heart-api\\source\\write-heart.webapi\\write-heart.application\\business\\service\\userposts\\iuserpostsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E2A40D-E807-4DB1-875F-4D4D7A77837B}|Write-Heart.Application\\Write-Heart.Application.csproj|solutionrelative:write-heart.application\\business\\service\\userposts\\iuserpostsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78E2A40D-E807-4DB1-875F-4D4D7A77837B}|Write-Heart.Application\\Write-Heart.Application.csproj|a:\\_business_site\\official\\write-heart\\write-heart-api\\source\\write-heart.webapi\\write-heart.application\\interfaces\\generic\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78E2A40D-E807-4DB1-875F-4D4D7A77837B}|Write-Heart.Application\\Write-Heart.Application.csproj|solutionrelative:write-heart.application\\interfaces\\generic\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FE37225-4AEA-452A-995B-48AC582EE062}|Write-Heart.WebApi\\Write-Heart.WebApi.csproj|a:\\_business_site\\official\\write-heart\\write-heart-api\\source\\write-heart.webapi\\write-heart.webapi\\controllers\\newfolder\\userpost\\userpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE37225-4AEA-452A-995B-48AC582EE062}|Write-Heart.WebApi\\Write-Heart.WebApi.csproj|solutionrelative:write-heart.webapi\\controllers\\newfolder\\userpost\\userpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC1DC674-762F-40D9-BF32-BB73A8E86969}|Write-Heart.Domain\\Write-Heart.Domain.csproj|a:\\_business_site\\official\\write-heart\\write-heart-api\\source\\write-heart.webapi\\write-heart.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC1DC674-762F-40D9-BF32-BB73A8E86969}|Write-Heart.Domain\\Write-Heart.Domain.csproj|solutionrelative:write-heart.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FE37225-4AEA-452A-995B-48AC582EE062}|Write-Heart.WebApi\\Write-Heart.WebApi.csproj|a:\\_business_site\\official\\write-heart\\write-heart-api\\source\\write-heart.webapi\\write-heart.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4FE37225-4AEA-452A-995B-48AC582EE062}|Write-Heart.WebApi\\Write-Heart.WebApi.csproj|solutionrelative:write-heart.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{12AEFDF4-DB9B-4871-807A-3C254A295DDE}|Write-heart.Persistence\\Write-heart.Persistence.csproj|a:\\_business_site\\official\\write-heart\\write-heart-api\\source\\write-heart.webapi\\write-heart.persistence\\repository\\userrepo\\userpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AEFDF4-DB9B-4871-807A-3C254A295DDE}|Write-heart.Persistence\\Write-heart.Persistence.csproj|solutionrelative:write-heart.persistence\\repository\\userrepo\\userpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12AEFDF4-DB9B-4871-807A-3C254A295DDE}|Write-heart.Persistence\\Write-heart.Persistence.csproj|a:\\_business_site\\official\\write-heart\\write-heart-api\\source\\write-heart.webapi\\write-heart.persistence\\db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12AEFDF4-DB9B-4871-807A-3C254A295DDE}|Write-heart.Persistence\\Write-heart.Persistence.csproj|solutionrelative:write-heart.persistence\\db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12AEFDF4-DB9B-4871-807A-3C254A295DDE}|Write-heart.Persistence\\Write-heart.Persistence.csproj|a:\\_business_site\\official\\write-heart\\write-heart-api\\source\\write-heart.webapi\\write-heart.persistence\\repository\\userrepo\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12AEFDF4-DB9B-4871-807A-3C254A295DDE}|Write-heart.Persistence\\Write-heart.Persistence.csproj|solutionrelative:write-heart.persistence\\repository\\userrepo\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78E2A40D-E807-4DB1-875F-4D4D7A77837B}|Write-Heart.Application\\Write-Heart.Application.csproj|a:\\_business_site\\official\\write-heart\\write-heart-api\\source\\write-heart.webapi\\write-heart.application\\business\\service\\userposts\\userpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E2A40D-E807-4DB1-875F-4D4D7A77837B}|Write-Heart.Application\\Write-Heart.Application.csproj|solutionrelative:write-heart.application\\business\\service\\userposts\\userpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1DC674-762F-40D9-BF32-BB73A8E86969}|Write-Heart.Domain\\Write-Heart.Domain.csproj|a:\\_business_site\\official\\write-heart\\write-heart-api\\source\\write-heart.webapi\\write-heart.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1DC674-762F-40D9-BF32-BB73A8E86969}|Write-Heart.Domain\\Write-Heart.Domain.csproj|solutionrelative:write-heart.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AEFDF4-DB9B-4871-807A-3C254A295DDE}|Write-heart.Persistence\\Write-heart.Persistence.csproj|a:\\_business_site\\official\\write-heart\\write-heart-api\\source\\write-heart.webapi\\write-heart.persistence\\repository\\userrepo\\iuserpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AEFDF4-DB9B-4871-807A-3C254A295DDE}|Write-heart.Persistence\\Write-heart.Persistence.csproj|solutionrelative:write-heart.persistence\\repository\\userrepo\\iuserpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AEFDF4-DB9B-4871-807A-3C254A295DDE}|Write-heart.Persistence\\Write-heart.Persistence.csproj|a:\\_business_site\\official\\write-heart\\write-heart-api\\source\\write-heart.webapi\\write-heart.persistence\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AEFDF4-DB9B-4871-807A-3C254A295DDE}|Write-heart.Persistence\\Write-heart.Persistence.csproj|solutionrelative:write-heart.persistence\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E2A40D-E807-4DB1-875F-4D4D7A77837B}|Write-Heart.Application\\Write-Heart.Application.csproj|a:\\_business_site\\official\\write-heart\\write-heart-api\\source\\write-heart.webapi\\write-heart.application\\interfaces\\generic\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E2A40D-E807-4DB1-875F-4D4D7A77837B}|Write-Heart.Application\\Write-Heart.Application.csproj|solutionrelative:write-heart.application\\interfaces\\generic\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1DC674-762F-40D9-BF32-BB73A8E86969}|Write-Heart.Domain\\Write-Heart.Domain.csproj|a:\\_business_site\\official\\write-heart\\write-heart-api\\source\\write-heart.webapi\\write-heart.domain\\entities\\userposts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1DC674-762F-40D9-BF32-BB73A8E86969}|Write-Heart.Domain\\Write-Heart.Domain.csproj|solutionrelative:write-heart.domain\\entities\\userposts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE37225-4AEA-452A-995B-48AC582EE062}|Write-Heart.WebApi\\Write-Heart.WebApi.csproj|a:\\_business_site\\official\\write-heart\\write-heart-api\\source\\write-heart.webapi\\write-heart.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FE37225-4AEA-452A-995B-48AC582EE062}|Write-Heart.WebApi\\Write-Heart.WebApi.csproj|solutionrelative:write-heart.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FE37225-4AEA-452A-995B-48AC582EE062}|Write-Heart.WebApi\\Write-Heart.WebApi.csproj|a:\\_business_site\\official\\write-heart\\write-heart-api\\source\\write-heart.webapi\\write-heart.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,16 +55,8 @@
       "RelativeMoniker": "D:0:0:{12AEFDF4-DB9B-4871-807A-3C254A295DDE}|Write-heart.Persistence\\Write-heart.Persistence.csproj|solutionrelative:write-heart.persistence\\write-heart.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC1DC674-762F-40D9-BF32-BB73A8E86969}|Write-Heart.Domain\\Write-Heart.Domain.csproj|a:\\_business_site\\official\\write-heart\\write-heart-api\\source\\write-heart.webapi\\write-heart.domain\\entities\\userposts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC1DC674-762F-40D9-BF32-BB73A8E86969}|Write-Heart.Domain\\Write-Heart.Domain.csproj|solutionrelative:write-heart.domain\\entities\\userposts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EC1DC674-762F-40D9-BF32-BB73A8E86969}|Write-Heart.Domain\\Write-Heart.Domain.csproj|a:\\_business_site\\official\\write-heart\\write-heart-api\\source\\write-heart.webapi\\write-heart.domain\\write-heart.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{EC1DC674-762F-40D9-BF32-BB73A8E86969}|Write-Heart.Domain\\Write-Heart.Domain.csproj|solutionrelative:write-heart.domain\\write-heart.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12AEFDF4-DB9B-4871-807A-3C254A295DDE}|Write-heart.Persistence\\Write-heart.Persistence.csproj|a:\\_business_site\\official\\write-heart\\write-heart-api\\source\\write-heart.webapi\\write-heart.persistence\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12AEFDF4-DB9B-4871-807A-3C254A295DDE}|Write-heart.Persistence\\Write-heart.Persistence.csproj|solutionrelative:write-heart.persistence\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FE37225-4AEA-452A-995B-48AC582EE062}|Write-Heart.WebApi\\Write-Heart.WebApi.csproj|a:\\_business_site\\official\\write-heart\\write-heart-api\\source\\write-heart.webapi\\write-heart.webapi\\write-heart.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -62,63 +74,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "IRepository.cs",
               "DocumentMoniker": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.Application\\Interfaces\\Generic\\IRepository.cs",
               "RelativeDocumentMoniker": "Write-Heart.Application\\Interfaces\\Generic\\IRepository.cs",
               "ToolTip": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.Application\\Interfaces\\Generic\\IRepository.cs",
               "RelativeToolTip": "Write-Heart.Application\\Interfaces\\Generic\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-08T15:56:42.289Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.WebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "Write-Heart.WebApi\\appsettings.json",
-              "ToolTip": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.WebApi\\appsettings.json",
-              "RelativeToolTip": "Write-Heart.WebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-08T11:15:04.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "Write-Heart.WebApi\\Program.cs",
-              "ToolTip": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.WebApi\\Program.cs",
-              "RelativeToolTip": "Write-Heart.WebApi\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "UserPostRepository.cs",
+              "DocumentMoniker": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-heart.Persistence\\Repository\\UserRepo\\UserPostRepository.cs",
+              "RelativeDocumentMoniker": "Write-heart.Persistence\\Repository\\UserRepo\\UserPostRepository.cs",
+              "ToolTip": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-heart.Persistence\\Repository\\UserRepo\\UserPostRepository.cs",
+              "RelativeToolTip": "Write-heart.Persistence\\Repository\\UserRepo\\UserPostRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T11:10:19.343Z",
+              "WhenOpened": "2025-02-08T10:21:38.282Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUserPostsService.cs",
+              "DocumentMoniker": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.Application\\Business\\Service\\UserPosts\\IUserPostsService.cs",
+              "RelativeDocumentMoniker": "Write-Heart.Application\\Business\\Service\\UserPosts\\IUserPostsService.cs",
+              "ToolTip": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.Application\\Business\\Service\\UserPosts\\IUserPostsService.cs",
+              "RelativeToolTip": "Write-Heart.Application\\Business\\Service\\UserPosts\\IUserPostsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T16:40:17.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "UserPostService.cs",
+              "DocumentMoniker": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.Application\\Business\\Service\\UserPosts\\UserPostService.cs",
+              "RelativeDocumentMoniker": "Write-Heart.Application\\Business\\Service\\UserPosts\\UserPostService.cs",
+              "ToolTip": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.Application\\Business\\Service\\UserPosts\\UserPostService.cs",
+              "RelativeToolTip": "Write-Heart.Application\\Business\\Service\\UserPosts\\UserPostService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T16:37:56.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-heart.Persistence\\Db\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Write-heart.Persistence\\Db\\ApplicationDbContext.cs",
               "ToolTip": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-heart.Persistence\\Db\\ApplicationDbContext.cs",
               "RelativeToolTip": "Write-heart.Persistence\\Db\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-08T11:09:16.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "UserPostController.cs",
+              "DocumentMoniker": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.WebApi\\Controllers\\NewFolder\\UserPost\\UserPostController.cs",
+              "RelativeDocumentMoniker": "Write-Heart.WebApi\\Controllers\\NewFolder\\UserPost\\UserPostController.cs",
+              "ToolTip": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.WebApi\\Controllers\\NewFolder\\UserPost\\UserPostController.cs",
+              "RelativeToolTip": "Write-Heart.WebApi\\Controllers\\NewFolder\\UserPost\\UserPostController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T16:23:31.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "User.cs",
               "DocumentMoniker": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Write-Heart.Domain\\Entities\\User.cs",
@@ -131,38 +175,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-heart.Persistence\\Repository\\UserRepo\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Write-heart.Persistence\\Repository\\UserRepo\\UserRepository.cs",
-              "ToolTip": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-heart.Persistence\\Repository\\UserRepo\\UserRepository.cs",
-              "RelativeToolTip": "Write-heart.Persistence\\Repository\\UserRepo\\UserRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-heart.Persistence\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Write-heart.Persistence\\Repository\\Repository.cs",
+              "ToolTip": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-heart.Persistence\\Repository\\Repository.cs",
+              "RelativeToolTip": "Write-heart.Persistence\\Repository\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T10:21:38.282Z",
+              "WhenOpened": "2025-02-08T10:21:16.921Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
+              "Title": "IUserPostRepository.cs",
+              "DocumentMoniker": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-heart.Persistence\\Repository\\UserRepo\\IUserPostRepository.cs",
+              "RelativeDocumentMoniker": "Write-heart.Persistence\\Repository\\UserRepo\\IUserPostRepository.cs",
+              "ToolTip": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-heart.Persistence\\Repository\\UserRepo\\IUserPostRepository.cs",
+              "RelativeToolTip": "Write-heart.Persistence\\Repository\\UserRepo\\IUserPostRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:21:25.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "UserPosts.cs",
               "DocumentMoniker": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.Domain\\Entities\\UserPosts.cs",
               "RelativeDocumentMoniker": "Write-Heart.Domain\\Entities\\UserPosts.cs",
               "ToolTip": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.Domain\\Entities\\UserPosts.cs",
               "RelativeToolTip": "Write-Heart.Domain\\Entities\\UserPosts.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-08T10:58:16.72Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Write-Heart.WebApi\\appsettings.json",
+              "ToolTip": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.WebApi\\appsettings.json",
+              "RelativeToolTip": "Write-Heart.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T11:15:04.453Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Write-heart.Persistence",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Write-Heart.WebApi\\Program.cs",
+              "ToolTip": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.WebApi\\Program.cs",
+              "RelativeToolTip": "Write-Heart.WebApi\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T11:10:19.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Write-heart.Persistence.csproj",
               "DocumentMoniker": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-heart.Persistence\\Write-heart.Persistence.csproj",
               "RelativeDocumentMoniker": "Write-heart.Persistence\\Write-heart.Persistence.csproj",
               "ToolTip": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-heart.Persistence\\Write-heart.Persistence.csproj",
@@ -174,21 +252,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-heart.Persistence\\Repository\\UserRepo\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Write-heart.Persistence\\Repository\\UserRepo\\IUserRepository.cs",
-              "ToolTip": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-heart.Persistence\\Repository\\UserRepo\\IUserRepository.cs",
-              "RelativeToolTip": "Write-heart.Persistence\\Repository\\UserRepo\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T10:21:25.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Write-Heart.Domain",
+              "DocumentIndex": 13,
+              "Title": "Write-Heart.Domain.csproj",
               "DocumentMoniker": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.Domain\\Write-Heart.Domain.csproj",
               "RelativeDocumentMoniker": "Write-Heart.Domain\\Write-Heart.Domain.csproj",
               "ToolTip": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.Domain\\Write-Heart.Domain.csproj",
@@ -200,21 +265,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-heart.Persistence\\Repository\\Repository.cs",
-              "RelativeDocumentMoniker": "Write-heart.Persistence\\Repository\\Repository.cs",
-              "ToolTip": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-heart.Persistence\\Repository\\Repository.cs",
-              "RelativeToolTip": "Write-heart.Persistence\\Repository\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T10:21:16.921Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Write-Heart.WebApi",
+              "DocumentIndex": 14,
+              "Title": "Write-Heart.WebApi.csproj",
               "DocumentMoniker": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.WebApi\\Write-Heart.WebApi.csproj",
               "RelativeDocumentMoniker": "Write-Heart.WebApi\\Write-Heart.WebApi.csproj",
               "ToolTip": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.WebApi\\Write-Heart.WebApi.csproj",
@@ -226,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "info.txt",
               "DocumentMoniker": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.WebApi\\Project-info\\info.txt",
               "RelativeDocumentMoniker": "Write-Heart.WebApi\\Project-info\\info.txt",
@@ -234,8 +286,7 @@
               "RelativeToolTip": "Write-Heart.WebApi\\Project-info\\info.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-02-08T08:54:06.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T08:54:06.629Z"
             }
           ]
         }

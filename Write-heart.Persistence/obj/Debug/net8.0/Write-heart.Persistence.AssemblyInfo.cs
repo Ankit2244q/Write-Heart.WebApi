@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Write-heart.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+752b666fbeaa79bcf93e6740c188aa003ddd7941")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1de16495951f2ca99f64db9f91f2a6c60efcbd9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Write-heart.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Write-heart.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

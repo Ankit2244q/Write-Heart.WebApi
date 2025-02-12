@@ -7,6 +7,6 @@ namespace Write_heart.Persistence.Db
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) { }
 
-        public DbSet<User> Users { get; set; }
+        public DbSet<UserPosts> UsersPost { get; set; }
     }
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cWUGxEljKk/LkyeI2RIhHz1uqBGqkJuuS89UtCPKx/w=",
+  "Hash": "u7hKvOBDm6Ih05bvjYUE3Maii0hyMLxa14m1Vu1Tn88=",
   "Source": "Write-Heart.WebApi",
   "BasePath": "_content/Write-Heart.WebApi",
   "Mode": "Default",
@@ -10,6 +10,17 @@
       "Identity": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.Application\\Write-Heart.Application.csproj",
       "Version": 2,
       "Source": "Write-Heart.Application",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    },
+    {
+      "Identity": "A:\\_Business_Site\\official\\Write-Heart\\Write-heart-Api\\Source\\Write-Heart.WebApi\\Write-Heart.Domain\\Write-Heart.Domain.csproj",
+      "Version": 2,
+      "Source": "Write-Heart.Domain",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
       "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
       "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
